@@ -55,6 +55,7 @@
     "@apollosproject/ui-prayer": "^3.8.0",
     "@apollosproject/ui-scripture": "^3.8.0",
     "@apollosproject/ui-test-utils": "^3.8.0",
+    "@bugsnag/react-native": "^7.16.7",
     "@react-native-community/async-storage": "^1.5.1",
     "@react-native-community/datetimepicker": "^3.0.0",
     "@react-native-community/geolocation": "^2.0.2",
