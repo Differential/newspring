@@ -735,7 +735,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.subsplashstudio31.NewSpring-Church;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.subsplashstudio31.NewSpring-Church";
 				PRODUCT_NAME = Newspring;
 				PROVISIONING_PROFILE_SPECIFIER = "match Development com.subsplashstudio31.NewSpring-Church";
 				SWIFT_OBJC_BRIDGING_HEADER = "Newspring-Bridging-Header.h";
@@ -771,7 +771,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.subsplashstudio31.NewSpring-Church;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.subsplashstudio31.NewSpring-Church";
 				PRODUCT_NAME = Newspring;
 				PROVISIONING_PROFILE_SPECIFIER = "match AppStore com.subsplashstudio31.NewSpring-Church";
 				SWIFT_OBJC_BRIDGING_HEADER = "Newspring-Bridging-Header.h";
@@ -924,7 +924,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.subsplashstudio31.NewSpring-Church.OneSignalNotificationServiceExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.subsplashstudio31.NewSpring-Church.OneSignalNotificationServiceExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "match Development com.subsplashstudio31.NewSpring-Church.OneSignalNotificationServiceExtension";
 				SKIP_INSTALL = YES;
@@ -962,7 +962,7 @@
 					"$(inherited)",
 				);
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.subsplashstudio31.NewSpring-Church.OneSignalNotificationServiceExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.subsplashstudio31.NewSpring-Church.OneSignalNotificationServiceExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "match AppStore com.subsplashstudio31.NewSpring-Church.OneSignalNotificationServiceExtension";
 				SKIP_INSTALL = YES;
