@@ -39,4 +39,4 @@ jobs:
       - run: yarn config set network-timeout 300000
       - run: yarn
       - run: node ./scripts/get-introspection-data.js
-      - run: apollos mobile deploy android publish
+      - run: apollos mobile deploy android publish -o 2022000426
