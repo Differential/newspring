@@ -28,6 +28,9 @@
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
             <category android:name="android.intent.category.LAUNCHER" />
+              <data android:scheme="https"
+                  android:host="newspring.production.apollos.app"
+                  android:pathPrefix="/app-link" />
         </intent-filter>
       </activity>
     <meta-data android:name="com.bugsnag.android.API_KEY" android:value="b48e0fe5e9d3405c8648daa663b31cc7" />

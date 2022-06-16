@@ -113,12 +113,12 @@ const TABS = {
   },
   Read: {
     showProfile: true,
+  },
+  Explore: {
+    showProfile: true,
     showTags: true,
   },
   Watch: {
-    showProfile: true,
-  },
-  Pray: {
     showProfile: true,
   },
   Connect: {
