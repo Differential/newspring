@@ -60,10 +60,10 @@
     react-native-url-polyfill "^1.3.0"
     yup "^0.27.0"
 
-"@apollosproject/ui-connected@^3.9.1-canary.13":
-  version "3.9.1-canary.13"
-  resolved "https://registry.yarnpkg.com/@apollosproject/ui-connected/-/ui-connected-3.9.1-canary.13.tgz#32b95dbc9b333402981f60ffa924a23e169c7320"
-  integrity sha512-tdaOGazHs77WX1QheS8zeX0I2bcy+oyclOuaXaAttr1TNUPcaB1pAxr/R5DXYyM6HcKw4xRjhMpbHeL0WM51mg==
+"@apollosproject/ui-connected@^3.9.1-canary.23":
+  version "3.9.1-canary.23"
+  resolved "https://registry.yarnpkg.com/@apollosproject/ui-connected/-/ui-connected-3.9.1-canary.23.tgz#0c1a2bf64eb9e04e5403915dc22e023386ec0f3a"
+  integrity sha512-Yu4A2q0VvS7aHrQT4VqXttUcPd30kCq41k+u1dxsMHrVkWl3o8CuCCUAjCN4LMdqgO0z8u5W0Tx6N9eXMd6l+g==
   dependencies:
     "@gorhom/bottom-sheet" "3.4.1"
     "@react-navigation/bottom-tabs" "^5.11.8"
@@ -90,10 +90,10 @@
     htmlparser2 "3.9.2"
     verse-reference-regex "^1.3.0"
 
-"@apollosproject/ui-kit@^3.8.0":
-  version "3.9.0"
-  resolved "https://registry.yarnpkg.com/@apollosproject/ui-kit/-/ui-kit-3.9.0.tgz#5266f49b448c053e45d1085e4d01fcaab17a64ce"
-  integrity sha512-1S2SoA8G9txwf8miy3a4DQu/MJaUefzQMBFVWZ5W0ptQ4Iq05cVBirGv/mg4tyMTCRef/rGOt8nNGFMM8I3HGQ==
+"@apollosproject/ui-kit@^3.9.1-canary.23":
+  version "3.9.1-canary.23"
+  resolved "https://registry.yarnpkg.com/@apollosproject/ui-kit/-/ui-kit-3.9.1-canary.23.tgz#461316b316d6fbd0784828c11ad0e99cf24c346b"
+  integrity sha512-Cn3Ka3nTTQmAjE9xUCHHD3U+iKS6GxW7gnaBBi6EFNIlfDAFBKUg0X831DUdqykZQ5HI+/DeoweWjx4Ev+fmtA==
   dependencies:
     "@expo/react-native-action-sheet" "^3.12.0"
     "@react-native-community/blur" "^3.6.0"
@@ -155,10 +155,10 @@
   dependencies:
     "@apollo/client" "3.3.20"
 
-"@apollosproject/ui-prayer@^3.8.0":
-  version "3.9.0"
-  resolved "https://registry.yarnpkg.com/@apollosproject/ui-prayer/-/ui-prayer-3.9.0.tgz#424ec77ed2d769405184495ceb0e6b895b0705cc"
-  integrity sha512-1Qrrn8hvmZRC0kiTTBiK4l0gItgeSny4HYhQSNbSs3e/sTchvKHHMJHyo40CVByloBYPEv7Zn42l4C76QBTkoA==
+"@apollosproject/ui-prayer@^3.9.1-canary.23":
+  version "3.9.1-canary.23"
+  resolved "https://registry.yarnpkg.com/@apollosproject/ui-prayer/-/ui-prayer-3.9.1-canary.23.tgz#cfd495a16d5712b477d8b7c9dca2e87f46fabc32"
+  integrity sha512-uvkt++7vhlWfIoj1U+ClyGlazkd9HfLvi4EZXyoUlWS2BtQzUi0l1dUtYSxNp7i1Kl1391BmGr3ckCIqP9F5sA==
   dependencies:
     formik "2.2.9"
     lodash "4.17.21"
