@@ -28,7 +28,11 @@ const THEME = {
       regular: 'Colfax-Medium',
     },
   },
-  overrides: {},
+  overrides: {
+    'ui-connected.TagFilterConnected': {
+      allTagsText: 'All',
+    },
+  },
 };
 
 const ICONS = {
