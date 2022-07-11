@@ -120,7 +120,6 @@ const TABS = {
   },
   Explore: {
     showProfile: true,
-    showTags: true,
   },
   Watch: {
     showProfile: true,
